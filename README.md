@@ -9,7 +9,7 @@ El sistema utiliza **dos sensores INA226** y un **medidor de energía PZEM-004T*
 - Registro de datos en tarjeta microSD
 - Archivos CSV numerados automáticamente
 - Comunicación mediante I2C, UART y SPI
-- Diseño modular preparado para futuras ampliaciones (WiFi)
+- Interfaz WiFi mediante punto de acceso.
 
 ## Hardware utilizado
 - **Arduino UNO R4** (Renesas RA4M1)
